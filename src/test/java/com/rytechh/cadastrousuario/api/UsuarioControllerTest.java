@@ -8,7 +8,6 @@ import com.rytechh.cadastrousuario.api.request.UsuarioRequestDTO;
 import com.rytechh.cadastrousuario.api.request.UsuarioRequestDTOFixture;
 import com.rytechh.cadastrousuario.api.response.UsuarioResponseDTO;
 import com.rytechh.cadastrousuario.business.UsuarioService;
-import com.rytechh.cadastrousuario.infrastructure.exceptions.BusinessException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
